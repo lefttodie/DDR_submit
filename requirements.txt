@@ -1,0 +1,10 @@
+# pymupdf
+pdfplumber
+requests
+python-dotenv
+fastapi
+uvicorn
+python-multipart
+pymupdf
+requests
+python-dotenv
